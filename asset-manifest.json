@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/steganography-demo/static/css/main.cf1f0a95.css",
-    "main.js": "/steganography-demo/static/js/main.214501a7.js",
+    "main.css": "/steganography-demo/static/css/main.3932e9a3.css",
+    "main.js": "/steganography-demo/static/js/main.402086c4.js",
     "index.html": "/steganography-demo/index.html",
-    "main.cf1f0a95.css.map": "/steganography-demo/static/css/main.cf1f0a95.css.map",
-    "main.214501a7.js.map": "/steganography-demo/static/js/main.214501a7.js.map"
+    "main.3932e9a3.css.map": "/steganography-demo/static/css/main.3932e9a3.css.map",
+    "main.402086c4.js.map": "/steganography-demo/static/js/main.402086c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf1f0a95.css",
-    "static/js/main.214501a7.js"
+    "static/css/main.3932e9a3.css",
+    "static/js/main.402086c4.js"
   ]
 }
